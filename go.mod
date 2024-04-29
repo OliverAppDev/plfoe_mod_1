@@ -1,6 +1,6 @@
 module github.com/oliverappdev/plfoe_mod_1
 
-go 1.22.2
+go 1.22
 
 require rsc.io/quote v1.5.2
 
