@@ -1,4 +1,4 @@
-package plfoe_tmp_pod_ide_1_sdk
+package plfoe_mod_1
 
 import "testing"
 
